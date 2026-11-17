@@ -120,7 +120,7 @@ The rover stops when a suitable movement direction is unavailable.
 The firmware uses the following parameters:
 
 ```cpp
-const int SAFE_DISTANCE = 25;
+const int SAFE_DISTANCE = 55;
 const int MAX_DISTANCE = 250;
 ```
 
@@ -154,7 +154,7 @@ The ultrasonic sensor is mounted on a servo motor.
 The firmware performs scanning across a 180-degree range.
 
 ```cpp
-const int SCAN_STEP = 15;
+const int SCAN_STEP = 5;
 const int MIN_ANGLE = 0;
 const int MAX_ANGLE = 180;
 ```
