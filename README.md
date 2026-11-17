@@ -244,9 +244,7 @@ The use of a state-based control architecture helps organize the rover's scannin
 
 The generated coordinate information is transferred through serial communication and processed using Python to visualize the scanned environment in two dimensions.
 
-**project lead**
-**Poojaa D V**
-**project members**
-**Beeram Yeswanth Reddy
-  Aritra Bhunia
-  Deshpande Akash**
+**project lead**: 1)Poojaa D V
+**project members**:2)Beeram Yeswanth Reddy
+                    3)Aritra Bhunia
+                    4)Deshpande Akash
