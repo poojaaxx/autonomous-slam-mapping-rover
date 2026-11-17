@@ -243,6 +243,7 @@ The Arduino firmware integrates motor control, ultrasonic scanning, obstacle avo
 The use of a state-based control architecture helps organize the rover's scanning and movement operations.
 
 The generated coordinate information is transferred through serial communication and processed using Python to visualize the scanned environment in two dimensions.
+
 **project lead**
 **Poojaa D V**
 **project members**
